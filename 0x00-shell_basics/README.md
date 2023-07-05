@@ -1,1 +1,1 @@
-This is my first shell script for the current working directory
+Displaying the content list of current directory
