@@ -1,1 +1,1 @@
-Execution permission to owner group and users
+Setting permission to user only
