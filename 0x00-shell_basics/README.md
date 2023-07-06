@@ -1,1 +1,1 @@
-prints the type of the file named iamafile
+Creating a symbolic link to /bin/ls named ls
