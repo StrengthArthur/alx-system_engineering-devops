@@ -1,1 +1,1 @@
-Arithmetic
+Division of POWER and DIVIDE
